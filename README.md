@@ -7,3 +7,4 @@
 
 * <a href="https://sashajozwiak.github.io/some-works/random-jokes/" target="_blank">Randome quote app <i>(no adaptive, native js, jsone)</i></a>
 
+* <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe app<i>(no adaptive, native js, game)</i></a>
