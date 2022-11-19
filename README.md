@@ -8,9 +8,12 @@
 
 ### Apps
 
+* <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a> <i>(only css)</i>  
 * <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i>  
 * <a href="https://sashajozwiak.github.io/some-works/random-jokes/" target="_blank">Randome quote app | ru/en</a> <i>(native js, json, localStorage)</i>  
 * <a href="https://sashajozwiak.github.io/virtual-keyboard/" target="_blank">Virtual keyboard app | ru/en</a> <i>(native js, json, npm, eslint)</i>
+
+
 
 
 
