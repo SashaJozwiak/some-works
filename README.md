@@ -20,6 +20,12 @@
 > 🎓 <a href="https://rolling-scopes-school.github.io/sashajozwiak-JSFE2022Q1/online-shop/" target="_blank">Store page app (r-time filters) | ru</a> <i>(TypeScript, eslint, json, webpack)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe | en</a> <i>(native js, localStorage)</i>  
 
+---
+
+### Scripts and utilities
+
+> 🎓 <a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1600/" target="_blank">square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">bs 2</a> |   
+> 💼 soon.. 
 
 <sub align="center">★ — last projects.</sub>
 
