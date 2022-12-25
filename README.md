@@ -1,4 +1,4 @@
-<sub align="center">💼 — commercial project;</sub>  
+<sub align="center">💼 — commercial project on technical task;</sub>  
 <sub align="center">🎓 — training project on technical task.</sub>
 
 
