@@ -2,7 +2,7 @@
 <sub align="center">🎓 — training project on technical task.</sub>
 
 
-### Landings [HTML, ...CSS, JS]
+### Landings [HTML, CSS, JS]
 
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/portfolio/" target="_blank">Photoservice | ru/en</a> <i>(all adaptive, switch lang, switch theme, native js)</i>  
 > 💼 <a href="https://sashajozwiak.github.io/some-works/bankrotto/" target="_blank">Legalservice | ru</a> <i> (all adaptive, native js, jquery, bootstrap, php)</i>  
@@ -10,7 +10,7 @@
 
 ---
 
-### Apps [...JS, TS]
+### Apps [JS, TS]
 
 > 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a> <i>(only css)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i>  
