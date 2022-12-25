@@ -1,8 +1,8 @@
-<sub align="center">💼 — commercial work;</sub>  
+<sub align="center">💼 — commercial project;</sub>  
 <sub align="center">🎓 — training project on technical task.</sub>
 
 
-### Landings
+### Landings [HTML, ...CSS, JS]
 
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/portfolio/" target="_blank">Photoservice | ru/en</a> <i>(all adaptive, switch lang, switch theme, native js)</i>  
 > 💼 <a href="https://sashajozwiak.github.io/some-works/bankrotto/" target="_blank">Legalservice | ru</a> <i> (all adaptive, native js, jquery, bootstrap, php)</i>  
@@ -10,7 +10,7 @@
 
 ---
 
-### Apps
+### Apps [...JS, TS]
 
 > 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a> <i>(only css)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i>  
@@ -21,11 +21,15 @@
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe | en</a> <i>(native js, localStorage)</i>  
 
 ---
+### Apps [...React]
+> ...in progress right now
+---
 
 ### Scripts and utilities
 
-> 🎓 <a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1600/" target="_blank">square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">bs 2</a> |   
-> 💼 soon.. 
+> <b>JS: </b><a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1600/" target="_blank">🎓square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">🎓d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">🎓baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">🎓bs 2</a> |  
+> <b>React:</b> <a href="https://codesandbox.io/s/useeffect-2zwo8l?file=/src/App.js" target="_blank">🎓Cardswapper</a> | 
+> <a href="https://codesandbox.io/s/search-forked-rxx4iq" target="_blank">🎓Fastfinder</a> 
 
 <sub align="center">★ — last projects.</sub>
 
