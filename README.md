@@ -31,7 +31,7 @@
 > <b>React:</b> <a href="https://codesandbox.io/s/useeffect-2zwo8l?file=/src/App.js" target="_blank">🎓Cardswapper</a> | 
 > <a href="https://codesandbox.io/s/search-forked-rxx4iq" target="_blank">🎓Fastfinder</a> 
 
-<sub align="center">★ — last projects.</sub>
+<sub align="center">★ — previous projects.</sub>
 
 
 
