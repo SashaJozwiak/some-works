@@ -22,7 +22,8 @@
 
 ---
 ### Apps [...React]
-> ...in progress right now
+> <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(..in progress right now)</i> ★  
+
 ---
 
 ### Scripts and utilities
