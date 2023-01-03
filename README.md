@@ -23,7 +23,7 @@
 
 ---
 ### Apps [...React]
-> <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓Audiochallenge game</a>  
+> <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(..in progress right now)</i> ★  
 
 ---
