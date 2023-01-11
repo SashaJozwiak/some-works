@@ -11,7 +11,7 @@
 
 ---
 
-### Apps [JS, TS]
+### Apps [JS, TS, etc.]
 
 > 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a> <i>(only css)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i> ★  
