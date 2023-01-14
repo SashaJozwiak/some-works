@@ -1,0 +1,154 @@
+.page {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0 40px;
+    font-family: 'IBM Plex Sans';
+    color: #0C0C0D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    max-width: 40vw;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 96px;
+  }
+  
+  .header__logo {
+    margin-right: 8px;
+    width: 32px;
+  }
+  
+  .header__title {
+    font-size: 20px;
+    line-height: 1.6;
+    margin: 0;
+  }
+  
+  .search__form {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search__textfield {
+    width: calc(100% - 84px);
+    height: 40px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border: 1px solid #3C39EC;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-family: inherit;
+    font-size: 14px;
+  }
+  
+  .search__textfield:focus {
+    outline: none;
+    box-shadow: 0 0 2px #3C39EC;
+  }
+  
+  .search__button {
+    border: none;
+    width: 84px;
+    background-color: #3C39EC;
+    color: #fff;
+    font-family: inherit;
+    font-size: 14px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: opacity .3s ease-in-out;
+  }
+  
+  .search__button:hover {
+    cursor: pointer;
+    opacity: .9;
+  }
+  
+  .search__button:focus {
+    outline: none;
+    box-shadow: 0 0 2px #3C39EC;
+  }
+  
+  .search__result {
+    margin-top: 20px;
+  }
+  
+  .search__findings {
+    margin: 0;
+    font-size: 14px;
+    line-height: 3.4;
+  }
+  
+  .search__findings-list {
+    list-style: none;
+    padding: 0 0 0 32px;
+    margin: 0;
+  }
+  
+  .search__finding-item {
+    position: relative;
+    padding: 20px 0;
+  }
+  
+  .search__finding-item::before {
+    content: url(https://code.s3.yandex.net/web-code/entrance-test/folder.svg);
+    position: absolute;
+    top: 36px;
+    left: -30px;
+  }
+  
+  .search__finding-item::after {
+    content: '';
+    background-color: #D1D2D6;
+    width: calc(100% + 30px);
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: -30px;
+    z-index: 1;
+  }
+  
+  .search__finding-link {
+    display: block;
+    color: #3C39EC;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+  
+  .search__finding-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .search__finding-description {
+    display: block;
+    color: #94949E;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  .search__error {
+   margin-top: 44px;
+  }
+  
+  .search__error-message {
+    text-align: center;
+    font-size: 14px;
+    color: #94949E;
+    margin: 0;
+  }
+  
+  .search__error-icon {
+    display: block;
+    width: 40px;
+    margin: 0 auto 20px;
+  }

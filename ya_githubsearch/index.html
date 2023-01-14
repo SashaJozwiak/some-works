@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>GitHub Поиск</title>
+      	<script src="https://code.s3.yandex.net/react/libs/babel.min.js"></script>      
+        <link rel="stylesheet" href="https://code.s3.yandex.net/web-code/entrance-test/lesson-3/task-1/fonts.css" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body class="page">
+        <header class="header">
+            <img src="https://code.s3.yandex.net/web-code/entrance-test/github-logo.svg" alt="" class="header__logo" />
+            <h1 class="header__title">GitHub Поиск</h1>
+        </header>
+        <section class="search">
+            <form class="search__form">
+                <input type="text" name="title" class="search__textfield" placeholder="Искать в GitHub" />
+                <button type="submit" class="search__button">
+                    Найти
+                </button>
+            </form>
+            <div class="search__result">
+                <h2 class="search__findings">
+
+                </h2>
+                <ul class="search__findings-list">
+
+                </ul>
+            </div>
+            <div class="search__error">
+
+            </div>
+        </section>
+        <script src="./task.js"></script>
+    </body>
+</html>
