@@ -20,7 +20,8 @@
 > 💼 <a href="https://atver.ru" target="_blank">Regional news aggregator app | ru</a> <i>(all adaptive, wp, css, php-parse)</i>  
 > 🎓 <a href="https://rolling-scopes-school.github.io/sashajozwiak-JSFE2022Q1/online-shop/" target="_blank">Store page app (r-time filters) | ru</a> <i>(TypeScript, eslint, json, webpack)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe | en</a> <i>(native js, localStorage)</i>  
-> 🎓 <a href="https://codepen.io/sashajozwiak/pen/gOjmrZV" target="_blank">Game "Aim training | ru</a> <i>(native js)</i>★
+> 🎓 <a href="https://codepen.io/sashajozwiak/pen/gOjmrZV" target="_blank">Game "Aim training | ru</a> <i>(native js)</i>  
+> 🎓 <a href="https://sashajozwiak.github.io/some-works/ya_githubsearch/" target="_blank">Github search | ru</a> <i>(native js, fetch api)</i>★
 
 ---
 ### Apps [...React]
@@ -30,7 +31,7 @@
 
 ---
 
-### Scripts, utilities, components
+### My scripts, utilities, components
 
 > <b>JS: </b><a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1700/" target="_blank">🎓square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">🎓d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">🎓baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">🎓bs 2</a> |  <a href="https://codepen.io/sashajozwiak/pen/vYaxOGa" target="_blank">🎓Colored blocks</a>  
 > <b>React:</b> <a href="https://codesandbox.io/s/useeffect-2zwo8l?file=/src/App.js" target="_blank">🎓Cardswapper</a> | 
