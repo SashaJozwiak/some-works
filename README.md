@@ -25,6 +25,7 @@
 
 ---
 ### Apps [...React]
+> <a href="https://codesandbox.io/s/tenzies-feat-scrimba-1m7ix0?file=/src/App.js" target="_blank">🎓Tenzies game</a> <i>(feat scrimba)</i>  
 > <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
 > <a href="http://indx.69.tw1.ru/" target="_blank">💼Company website (landing version)</a>  
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(..in progress right now)</i> ★  
