@@ -33,7 +33,7 @@
 ---
 
 ### My scripts, utilities, components
-> <b>HTML/CSS/...: </b> <a href="https://sashajozwiak.github.io/some-works/forms/" target="_blank">🎓Forms</a> |  
+> <b>HTML/CSS/...: </b> <a href="https://sashajozwiak.github.io/some-works/forms/" target="_blank">🎓Forms</a>   
 > <b>JS: </b><a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1700/" target="_blank">🎓square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">🎓d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">🎓baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">🎓bs 2</a> |  <a href="https://codepen.io/sashajozwiak/pen/vYaxOGa" target="_blank">🎓Colored blocks</a>  
 > <b>React:</b> <a href="https://codesandbox.io/s/useeffect-2zwo8l?file=/src/App.js" target="_blank">🎓Cardswapper</a> | 
 > <a href="https://codesandbox.io/s/search-forked-rxx4iq" target="_blank">🎓Fastfinder</a> | <a href="https://codesandbox.io/s/custom-routing-nohashlink-fxvn0e?file=/src/App.js" target="_blank">💼Custom routing with add sections</a> |  <a href="https://codesandbox.io/s/currency-swapper-ll1gli?file=/src/App.js" target="_blank">🎓Currency converter</a>
