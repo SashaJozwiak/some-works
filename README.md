@@ -12,8 +12,7 @@
 ---
 
 ### Apps [JS, TS, etc..]
-
-> 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a> <i>(only css)</i>  
+ 
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i> ★  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/random-jokes/" target="_blank">Randome quote app | ru/en</a> <i>(native js, json, localStorage)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/virtual-keyboard/" target="_blank">Virtual keyboard app | ru/en</a> <i>(native js, json, npm, eslint)</i>  
@@ -35,7 +34,7 @@
 ---
 
 ### Scripts, utilities, components
-> <b>HTML/CSS/...: </b> <a href="https://sashajozwiak.github.io/some-works/forms/" target="_blank">🎓Forms</a>   
+> <b>HTML/CSS: </b> <a href="https://sashajozwiak.github.io/some-works/forms/" target="_blank">🎓Forms</a>, 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a>  
 > <b>JS: </b><a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1700/" target="_blank">🎓square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">🎓d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">🎓baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">🎓bs 2</a> |  <a href="https://codepen.io/sashajozwiak/pen/vYaxOGa" target="_blank">🎓Colored blocks</a>  |  🎓 <a href="https://codesandbox.io/s/native-redux-1x4j7x?file=/src/index.js" target="_blank">Redux-JS</a>  
 > <b>React:</b> <a href="https://codesandbox.io/s/useeffect-2zwo8l?file=/src/App.js" target="_blank">🎓Card-swapper</a> | 
 > <a href="https://codesandbox.io/s/search-forked-rxx4iq" target="_blank">🎓Fastfinder</a> | <a href="https://codesandbox.io/s/custom-routing-nohashlink-fxvn0e?file=/src/App.js" target="_blank">💼Custom routing with add sections</a> | <a href="https://codesandbox.io/s/currency-swapper-ll1gli?file=/src/App.js" target="_blank">🎓Currency converter</a> | <a href="https://codesandbox.io/s/todo-react-redux-q770cq?file=/redux/reducers.js" target="_blank">🎓Redux-react</a>  
