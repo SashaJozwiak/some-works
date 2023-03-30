@@ -20,7 +20,7 @@
 > 🎓 <a href="https://rolling-scopes-school.github.io/sashajozwiak-JSFE2022Q1/online-shop/" target="_blank">Store page app (r-time filters) | ru</a> <i>(TypeScript, eslint, json, webpack)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe | en</a> <i>(native js, localStorage)</i>  
 > 🎓 <a href="https://codepen.io/sashajozwiak/pen/gOjmrZV" target="_blank">Game "Aim training | ru</a> <i>(native js)</i>  
-> 🎓 <a href="https://sashajozwiak.github.io/some-works/ya_githubsearch/" target="_blank">Github search | ru</a> <i>(native js, fetch api, feat ya.practicum)</i>★  
+> 🎓 <a href="https://sashajozwiak.github.io/some-works/ya_githubsearch/" target="_blank">Github search | ru</a> <i>(native js, fetch api, feat Ya.Practicum)</i>★  
 
 ---
 ### Apps [...React]
