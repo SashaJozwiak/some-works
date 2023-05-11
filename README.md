@@ -21,6 +21,7 @@
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe | en</a> <i>(native js, localStorage)</i>  
 > 🎓 <a href="https://codepen.io/sashajozwiak/pen/gOjmrZV" target="_blank">Game "Aim training | ru</a> <i>(native js)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/ya_githubsearch/" target="_blank">Github search | ru</a> <i>(native js, fetch api, feat Ya.Practicum)</i>★  
+> 🎓 <a href="https://github.com/SashaJozwiak/js-starter-project-44" target="_blank">Console games 5 in 1 | en</a> <i>(js, Ubuntu, npm, eslint feat Hexlet)</i>  
 
 ---
 ### Apps [...React]
