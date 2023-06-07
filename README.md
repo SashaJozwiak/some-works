@@ -20,7 +20,7 @@
 > 🎓 <a href="https://rolling-scopes-school.github.io/sashajozwiak-JSFE2022Q1/online-shop/" target="_blank">Store page app (r-time filters) | ru</a> <i>(TypeScript, eslint, json, webpack)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/tic-tac-toe/" target="_blank">Tic-tac-toe | en</a> <i>(native js, localStorage)</i>  
 > 🎓 <a href="https://codepen.io/sashajozwiak/pen/gOjmrZV" target="_blank">Game "Aim training | ru</a> <i>(native js)</i>  
-> 🎓 <a href="https://sashajozwiak.github.io/some-works/ya_githubsearch/" target="_blank">Github search | ru</a> <i>(native js, fetch api, feat Ya.Practicum)</i>★  
+> 🎓 <a href="https://sashajozwiak.github.io/some-works/ya_githubsearch/" target="_blank">Github search | ru</a> <i>(native js, fetch api, feat Ya.Practicum)</i>  
 > 🎓 <a href="https://github.com/SashaJozwiak/js-starter-project-44" target="_blank">Brain games 5 in 1 (console) | en</a> <i>(js, Ubuntu, npm, eslint feat Hexlet)</i>  
 
 ---
@@ -29,7 +29,10 @@
 > <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
 > <a href="http://indx.69.tw1.ru/" target="_blank">💼Company website (landing version)</a>  
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(...custom routing)</i> ★  
-> <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>
+> <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>  
+> <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales</a> <i>(React, local storage + file system)</i>★  
+
+
 
 
 ---
