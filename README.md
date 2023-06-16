@@ -24,7 +24,7 @@
 > 🎓 <a href="https://github.com/SashaJozwiak/js-starter-project-44" target="_blank">Brain games 5 in 1 (console) | en</a> <i>(js, Ubuntu, npm, eslint feat Hexlet)</i>  
 
 ---
-### Apps [...React]
+### Apps [...React, Redux, etc..]
 > <a href="https://codesandbox.io/s/tenzies-feat-scrimba-1m7ix0?file=/src/App.js" target="_blank">🎓Tenzies game</a> <i>(feat scrimba)</i>  
 > <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
 > <a href="http://indx.69.tw1.ru/" target="_blank">💼Company website (landing version)</a>  
