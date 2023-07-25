@@ -31,14 +31,14 @@
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(...custom routing)</i> ★  
 > <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>  
 > <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales (current v.1.2.1)</a> <i>(React, local storage + file system)</i>★  
-> <a href="https://yandex.ru/games/app/236521" target="_blank">💼 Guess game by frame" for Ya.Games | ru/en/tr</a> <i>(React, etc..)</i>  
+> <a href="https://yandex.ru/games/app/236521" target="_blank">💼 Guess game by frame for Ya.Games | ru/en/tr</a> <i>(React, etc..)</i>  
 
 
 
 
 ---
 
-### Scripts, utilities, components
+### Some utilities, components
 > <b>HTML/CSS: </b> <a href="https://sashajozwiak.github.io/some-works/forms/" target="_blank">🎓Forms</a>, 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a>,
 🎓 <a href="https://sashajozwiak.github.io/cssBayan/cssBayan/" target="_blank">cssBayan</a>  
 > <b>JS: </b><a href="https://jsfiddle.net/Jozwiak/ak6xvqo3/1700/" target="_blank">🎓square counter</a> | <a href="https://jsfiddle.net/Jozwiak/u5awhv19/115/" target="_blank">🎓d&d tasks</a> | <a href="https://jsfiddle.net/Jozwiak/dLh8vk1x/50/" target="_blank">🎓baeuty slider 1</a> | <a href="https://jsfiddle.net/Jozwiak/zrfebsdL/85/" target="_blank">🎓bs 2</a> |  <a href="https://codepen.io/sashajozwiak/pen/vYaxOGa" target="_blank">🎓Colored blocks</a>  |  🎓 <a href="https://codesandbox.io/s/native-redux-1x4j7x?file=/src/index.js" target="_blank">Redux-JS</a>  
