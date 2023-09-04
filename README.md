@@ -33,8 +33,8 @@
 > <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>  
 > <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales (current v.1.2.1)</a> <i>(React, local storage + file system)</i>★  
 > <a href="https://yandex.ru/games/app/236521" target="_blank">💼 "Guess game by frame" for Ya.Games | ru/en/tr</a> <i>(React, ls, etc..)</i>  
-> <a href="https://yandex.ru/games/app/--" target="_blank">💼 "Cat and fish" for Ya.Games (in progress) | ru/en/tr</a> <i>(React, ls, ysdk api, etc..)</i>
-> > <a href="#" target="_blank">💼 "Rukr" for Ya.Games (soon) | ru/</a> <i>(React, Redux, ls, ysdk api)</i>  
+> <a href="https://yandex.ru/games/app/--" target="_blank">💼 "Cat and fish" for Ya.Games (in progress) | ru/en/tr</a> <i>(React, ls, ysdk api, etc..)</i>  
+> <a href="#" target="_blank">💼 "Rukr" for Ya.Games (soon) | ru/</a> <i>(React, Redux, ls, ysdk api)</i>  
 
 
 
