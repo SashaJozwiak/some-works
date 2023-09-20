@@ -34,7 +34,7 @@
 > <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales (current v.1.2.1)</a> <i>(React, local storage + file system)</i>★  
 > <a href="https://yandex.ru/games/app/236521" target="_blank">💼 "Guess game by frame" for Ya.Games | ru/en/tr</a> <i>(React, ls, etc..)</i>  
 > <a href="https://yandex.ru/games/app/--" target="_blank">💼 "Cat and fish" for Ya.Games (in progress) | ru/en/tr</a> <i>(React, ls, ysdk api, etc..)</i>  
-> <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/</a> <i>(React, Redux Toolkit, api)</i>  
+> <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api)</i>  
 
 ---
 ### Some utilities, components
