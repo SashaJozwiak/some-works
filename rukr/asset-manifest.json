@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.68fb1d87.css",
+    "main.js": "./static/js/main.03ed255f.js",
+    "static/js/845.d13e2949.chunk.js": "./static/js/845.d13e2949.chunk.js",
+    "static/media/main_menu.mp3": "./static/media/main_menu.483cc8c1a3b27663d339.mp3",
+    "static/media/2en.jpg": "./static/media/2en.fe451303236ebcc51a4f.jpg",
+    "static/media/back8_upd.JPG": "./static/media/back8_upd.57184402211a7ba9dbc6.JPG",
+    "static/media/3en.jpg": "./static/media/3en.3d8d6a6c97424898833a.jpg",
+    "static/media/4en.jpg": "./static/media/4en.f50b25319b903f708c21.jpg",
+    "static/media/2.JPG": "./static/media/2.30f66e5cc6d433adceee.JPG",
+    "static/media/country.svg": "./static/media/country.df2843cca05cde83b7a923f27d3e66a4.svg",
+    "static/media/win.mp3": "./static/media/win.19c265c4356af911b501.mp3",
+    "static/media/marsh_out.mp3": "./static/media/marsh_out.0a46920526abc7fdef90.mp3",
+    "static/media/4.jpg": "./static/media/4.0c11245552c07d01687c.jpg",
+    "static/media/3.jpg": "./static/media/3.3b9f67978db7b70870a8.jpg",
+    "static/media/end_turn1.mp3": "./static/media/end_turn1.c09700d19bd06381b9e3.mp3",
+    "static/media/gameover.gif": "./static/media/gameover.b0928eebeb077453fe93.gif",
+    "static/media/lose.mp3": "./static/media/lose.151a38203f69e5f87948.mp3",
+    "static/media/1en.JPG": "./static/media/1en.a9d565fce75bd6ce84c9.JPG",
+    "static/media/ads+1f.png": "./static/media/ads+1f.a8f37d6c57508b0c4e8e.png",
+    "static/media/click_menu.mp3": "./static/media/click_menu.0400ebd77b53aa272e01.mp3",
+    "static/media/victory.gif": "./static/media/victory.3d927119101a5fc2cc42.gif",
+    "static/media/scouting.mp3": "./static/media/scouting.b88b97d7fc044de34220.mp3",
+    "static/media/educationgray.png": "./static/media/educationgray.7c6f34c8718920283b5b.png",
+    "static/media/rovnjajsja_out.mp3": "./static/media/rovnjajsja_out.fead7e601105157488f3.mp3",
+    "static/media/1.JPG": "./static/media/1.b9e983c9b4d9818a0cc4.JPG",
+    "static/media/attack.mp3": "./static/media/attack.e538e0d5ef88f3d7aafa.mp3",
+    "static/media/foot(30x30)(1).svg": "./static/media/foot(30x30)(1).0896413da8d6c406f0bcedc034c054b1.svg",
+    "static/media/tank(30x30).svg": "./static/media/tank(30x30).8ffa45afb9c45f66fb59b871fcd56019.svg",
+    "static/media/avia(30x30).svg": "./static/media/avia(30x30).75f506ed9aad4e219191cf53a9d4c579.svg",
+    "static/media/arta(30x30)(1).svg": "./static/media/arta(30x30)(1).14bd62a8f58a2d02b5d73932ef99a4d8.svg",
+    "index.html": "./index.html",
+    "main.68fb1d87.css.map": "./static/css/main.68fb1d87.css.map",
+    "main.03ed255f.js.map": "./static/js/main.03ed255f.js.map",
+    "845.d13e2949.chunk.js.map": "./static/js/845.d13e2949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68fb1d87.css",
+    "static/js/main.03ed255f.js"
+  ]
+}
