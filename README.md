@@ -47,7 +47,6 @@
 
 
 
-
 <sub align="center">★ — previous projects.</sub>  
 
 
