@@ -30,13 +30,13 @@
 ### Apps [...React, Redux, etc.]
 > <a href="https://codesandbox.io/s/tenzies-feat-scrimba-1m7ix0?file=/src/App.js" target="_blank">🎓Tenzies game</a> <i>(feat scrimba)</i>  
 > <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓🤝Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
-> <a href="http://indx.69.tw1.ru/" target="_blank">💼🤝Company website (landing version)</a>  
+> <a href="http://indx.69.tw1.ru/" target="_blank">💼🤝Company website</a>(landing version)  
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(...custom routing)</i> ★  
 > <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>  
 > <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales (current v.1.2.1)</a> <i>(React, local storage + file system)</i>★  
 > <a href="https://yandex.ru/games/app/236521" target="_blank">💼 "Guess game by frame" for Ya.Games | ru/en/tr</a> <i>(React, ls, api, sdk, etc..)</i>  
 > <a href="https://yandex.ru/games/app/247442?draft=true&lang=ru" target="_blank">💼 "Cat and fish" for Ya.Games (in progress) | ru/en/tr</a> <i>(React, ls, ysdk api, etc..)</i>  
-> <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api, <a href="https://yandex.ru/games/app/236145?draft=true&lang=ru" target="_blank">💼 Ya | ru</a>)</i>★  
+> <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api, sdk <a href="https://yandex.ru/games/app/236145?draft=true&lang=ru" target="_blank">💼 Ya | ru</a>)</i>★  
 
 
 ---
