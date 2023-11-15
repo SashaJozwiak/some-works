@@ -1,12 +1,14 @@
 <sub align="center">🎓 — training project on technical task;</sub>  
-<sub align="center">💼 — commercial project on technical task.</sub>  
+<sub align="center">💼 — commercial project on technical task;</sub>  
+<sub align="center">🤝 — team project.</sub>
+
 
 
 
 ### Landings [HTML, CSS, JS]
 
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/portfolio/" target="_blank">Photoservice | ru/en</a> <i>(all adaptive, switch lang, switch theme, native js)</i>  
-> 💼 <a href="https://sashajozwiak.github.io/some-works/bankrotto/" target="_blank">Legalservice | ru</a> <i> (all adaptive, native js, jquery, bootstrap, php)</i>  
+> 💼🤝 <a href="https://sashajozwiak.github.io/some-works/bankrotto/" target="_blank">Legalservice | ru</a> <i> (all adaptive, native js, jquery, bootstrap, php)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/shelter/pages/main/" target="_blank">Shelter | en</a> <i> (all adaptive, js advanced, json)</i> ★
 
 ---
@@ -27,8 +29,8 @@
 ---
 ### Apps [...React, Redux, etc.]
 > <a href="https://codesandbox.io/s/tenzies-feat-scrimba-1m7ix0?file=/src/App.js" target="_blank">🎓Tenzies game</a> <i>(feat scrimba)</i>  
-> <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
-> <a href="http://indx.69.tw1.ru/" target="_blank">💼Company website (landing version)</a>  
+> <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓🤝Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
+> <a href="http://indx.69.tw1.ru/" target="_blank">💼🤝Company website (landing version)</a>  
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(...custom routing)</i> ★  
 > <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>  
 > <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales (current v.1.2.1)</a> <i>(React, local storage + file system)</i>★  
