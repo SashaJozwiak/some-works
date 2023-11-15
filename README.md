@@ -30,7 +30,7 @@
 ### Apps [...React, Redux, etc.]
 > <a href="https://codesandbox.io/s/tenzies-feat-scrimba-1m7ix0?file=/src/App.js" target="_blank">🎓Tenzies game</a> <i>(feat scrimba)</i>  
 > <a href="https://rslang-132.netlify.app/#/games/audio-challenge" target="_blank">🎓🤝Audiochallenge game</a> <i>(<a href="https://github.com/SashaJozwiak/some-works/blob/dev/media/audiochallenge.JPG?raw=true" target="_blank">img</a>)</i>  
-> <a href="http://indx.69.tw1.ru/" target="_blank">💼🤝Company website</a>(landing version)  
+> <a href="http://indx.69.tw1.ru/" target="_blank">💼🤝Company website</a> (landing version)  
 > <a href="https://sashajozwiak.github.io/react-deploy/" target="_blank">💼Customer account</a> <i>(...custom routing)</i> ★  
 > <a href="https://jobs-dashboard-react-redux-r17s.vercel.app/" target="_blank">🎓Jobs-dashboard-app</a> <i>(React, Redux)</i>  
 > <a href="https://github.com/SashaJozwiak/some-works/tree/gh-pages/catalog_1.1.0" target="_blank">💼 Offline database for avito multiple sales (current v.1.2.1)</a> <i>(React, local storage + file system)</i>★  
