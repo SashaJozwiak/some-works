@@ -14,7 +14,6 @@
 ---
 
 ### Apps [JS, TS, etc.]
- 
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i> ★  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/random-jokes/" target="_blank">Randome quote app | ru/en</a> <i>(native js, json, localStorage)</i>  
 > 🎓 <a href="https://sashajozwiak.github.io/virtual-keyboard/" target="_blank">Virtual keyboard app | ru/en</a> <i>(native js, json, npm, eslint)</i>  
@@ -38,6 +37,8 @@
 > <a href="https://yandex.ru/games/app/247442?draft=true&lang=ru" target="_blank">💼 "Cat and fish" for Ya.Games (in progress) | ru/en/tr</a> <i>(React, ls, ysdk api, etc..)</i>  
 > <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api, sdk <a href="https://yandex.ru/games/app/236145?draft=true&lang=ru" target="_blank">💼 Ya | ru</a>)</i>★  
 
+### Apps Fullstack [React/NextJS, Nodejs, Express, PostgreSQL, Linux]
+> <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>NextJS, PostgreSQL</i>  
 
 ---
 ### Some utilities, components
