@@ -38,7 +38,7 @@
 > <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api, sdk <a href="https://yandex.ru/games/app/236145?draft=true&lang=ru" target="_blank">💼 Ya | ru</a>)</i>★  
 
 ### Apps Fullstack [React/NextJS, Nodejs, Express, PostgreSQL, Linux]
-> <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>(NextJS, PostgreSQL)</i>  
+> <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>(NextJS, tailwind, PostgreSQL)</i>  
 
 ---
 ### Some utilities, components
