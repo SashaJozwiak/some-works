@@ -42,7 +42,7 @@
 > <a href="https://github.com/zwiak/tteApp" target="_blank">🎓💼 TMA app train-to-earn web3</a> project <a href="https://dorahacks.io/buidl/12476" target="_blank">hackathon participant</a> without a team<i>★   
 > **server**: Ubuntu 22, NodeJs, Express, pg, psql, nginx, pm2;  
 > **bot**: NodeJs, Telegraf, pg;  
-> **client**: Vite, React, TS, GoogleFit API;  
+> **client**: Vite, React, TS, GoogleFit API, TON API's;  
 > **web3 Ton**: FunC, TS, Blueprint;  
 > **some other**: domain, website, ssl, indexing, presentation in Vegas, etc..</i>  
 
