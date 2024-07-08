@@ -38,8 +38,13 @@
 > <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api, sdk <a href="https://yandex.ru/games/app/236145?draft=true&lang=ru" target="_blank">💼 Ya | ru</a>)</i>★  
 
 ### Apps Fullstack [React/NextJS, Nodejs, Express, PostgreSQL, Linux]
-> <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>(NextJS, tailwind, PostgreSQL)</i>  
+> <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>(NextJS, tailwind, Ubuntu 20, PostgreSQL)</i>  
+> <a href="https://github.com/zwiak/tteApp" target="_blank">🎓💼 TMA app train-to-earn </a> <i>★   
+> **server**: Ubuntu 22, NodeJs, Express, pg, psql, nginx, pm2;  
+> **bot**: NodeJs, Telegraf, pg;  
+> **client**: Vite, React, TS, Blueprint, GoogleFit API.</i>  
 
+> 
 ---
 ### Some utilities, components
 > <b>HTML/CSS: </b> <a href="https://sashajozwiak.github.io/some-works/forms/" target="_blank">🎓Forms</a>, 🎓 <a href="https://sashajozwiak.github.io/cssMemSlider/cssMemSlider/" target="_blank">Mem slider app</a>,
