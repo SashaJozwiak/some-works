@@ -43,7 +43,7 @@
 > **server**: Ubuntu 22, NodeJs, Express, pg, psql, nginx, pm2;  
 > **bot**: NodeJs, Telegraf, pg;  
 > **client**: Vite, React, TS, GoogleFit API;  
-> **web3 Ton**: Func, TS, Blueprint;  
+> **web3 Ton**: FunC, TS, Blueprint;  
 > **some other**: domain, website, ssl, indexing, presentation in Vegas, etc..</i>  
 
 > 
