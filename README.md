@@ -2,9 +2,6 @@
 <sub align="center">💼 — commercial project on technical task;</sub>  
 <sub align="center">🤝 — team project.</sub>
 
-
-
-
 ### Landings [HTML, CSS, JS]
 
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/portfolio/" target="_blank">Photoservice | ru/en</a> <i>(all adaptive, switch lang, switch theme, native js)</i>  
@@ -12,7 +9,7 @@
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/shelter/pages/main/" target="_blank">Shelter | en</a> <i> (all adaptive, js advanced, json)</i> ★
 
 ---
-https://github.com/SashaJozwiak/atver-project
+
 ### Apps [JS, TS, etc.]
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/js30-audio-player/" target="_blank">Custom audioplayer app </a> <i>(native js)</i> ★  
 > 🎓 <a href="https://sashajozwiak.github.io/some-works/random-jokes/" target="_blank">Randome quote app | ru/en</a> <i>(native js, json, localStorage)</i>  
