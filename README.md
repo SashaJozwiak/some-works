@@ -36,7 +36,7 @@
 
 ### Apps Fullstack [React/NextJS, Nodejs, Express, PostgreSQL, Linux, etc.]
 > <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>(NextJS, tailwind, Ubuntu 20, PostgreSQL)</i>  
-> <a href="https://github.com/zwiak/tteApp" target="_blank">🎓💼 TMA app train-to-earn web3</a> project <a href="https://dorahacks.io/buidl/12476" target="_blank">hackathon participant</a> without a team<i>★   
+> <a href="https://github.com/zwiak/tteApp" target="_blank">🎓💼 TMA app train-to-earn web3</a> solo project <a href="https://dorahacks.io/buidl/12476" target="_blank">hackathon participant</a>, <a href="https://youtu.be/yzroORN-0wk?si=F80FZFUaielalRmS" target="_blank">preza</a><i>★   
 > **server**: Ubuntu 22, NodeJs, Express, pg, psql, nginx, pm2;  
 > **bot**: NodeJs, Telegraf, pg;  
 > **client**: Vite, React, TS, GoogleFit API, TON API's;  
