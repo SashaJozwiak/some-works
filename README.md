@@ -42,6 +42,13 @@
 > **client**: Vite, React, TS, GoogleFit API, TON API's;  
 > **web3 Ton**: FunC, TS, Blueprint;  
 > **some other**: domain, website, ssl, indexing, presentation in Vegas, etc..</i>  
+> <a href="https://youtu.be/4U7mp8Z1U94" target="_blank">💼 TMA app YouHold </a>  
+(On-chain mining, various social mechanics, a unique smart game of a mixed genre in a cryptocurrency setting, it was integrated into the miner's economy and social mechanics, an interactive world map with multiplayer cities where you can walk and complete tasks, off-chain transactions that could be sent via chat, a full-fledged affiliate account for the CPA model, etc)  
+<i> **server**: Ubuntu 22, NodeJs, Express, pg, psql, nginx, pm2, crone, tg stars, auth, blockchain transactions, etc;  
+> **bot**: NodeJs, Telegraf, pg, crone, stars, transactions, etc;  
+> **client**: Vite, React, TS, Zustand, TON API's, Apollo, some API's, etc;  
+> **web3 Ton**: FunC, TS, Blueprint, transactions, blockchain and some API's;  
+> **some other**: domain, website, ssl, indexing, cloudflare, etc..</i>  
 
 > 
 ---
