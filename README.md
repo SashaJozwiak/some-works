@@ -34,7 +34,7 @@
 > <a href="https://yandex.ru/games/app/247442?draft=true&lang=ru" target="_blank">💼 "Cat and fish" for Ya.Games (in progress) | ru/en/tr</a> <i>(React, ls, ysdk api, etc..)</i>  
 > <a href="https://zwiak.itch.io/the-war-in-ukraine" target="_blank">💼 "Rukr" for Itch | ru/en</a> <i>(React, Redux Toolkit, api, sdk <a href="https://yandex.ru/games/app/236145?draft=true&lang=ru" target="_blank">💼 Ya | ru</a>)</i>★  
 
-### Apps Fullstack [React/NextJS, Nodejs, Express, PostgreSQL, Linux, etc.]
+### Full Stack Apps [React/NextJS, Nodejs, Express, PostgreSQL, Linux, etc.]
 > <a href="https://github.com/SashaJozwiak/fst" target="_blank">🎓💼 e-shop+CRM</a> <i>(NextJS, tailwind, Ubuntu 20, PostgreSQL)</i>  
 > <a href="https://github.com/zwiak/tteApp" target="_blank">🎓💼 TMA app train-to-earn web3</a> solo project <a href="https://dorahacks.io/buidl/12476" target="_blank">hackathon participant</a>, <a href="https://youtu.be/yzroORN-0wk?si=F80FZFUaielalRmS" target="_blank">preza</a><i>★   
 > **server**: Ubuntu 22, NodeJs, Express, pg, psql, nginx, pm2;  
